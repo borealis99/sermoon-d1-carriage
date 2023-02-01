@@ -13,3 +13,4 @@
    - McMaster-Carr: [97258A101](https://www.mcmaster.com/97258A101) / [ 97259A101](https://www.mcmaster.com/97259A101)
  - M3 x 18mm screws
  - M3 x 5mm screws
+ - TODO: Gather M3 screw lengths for belt holder, endstop mounts, fans, etc
